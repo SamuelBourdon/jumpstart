@@ -19,3 +19,4 @@
 # Ignore Sublime Text files
 jumpstart.sublime-project
 jumpstart.sublime-workspace
+.editorconfig
